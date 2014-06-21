@@ -1,6 +1,4 @@
 setup
 =====
 
-git clone https://github.com/ragsden/setup.git /n
-cd setup /n
-. boot.sh /n
+git clone https://github.com/ragsden/setup.git && cd setup && . boot.sh /n
